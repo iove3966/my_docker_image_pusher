@@ -1,4 +1,3 @@
-tao_docker_repositories
 #支持私库
 ksamweb/nginx
 python:alpine3.19
